@@ -1,6 +1,5 @@
-# 📊 Asignación: Importancia de la Data Visualization (Cuarteto de Anscombe)
+#  Asignación: Importancia de la Data Visualization (Cuarteto de Anscombe)
 
-## 📌 Portada
 
 | Institución: | UNIVERSIDAD POLITÉCNICA SALESIANA (UPS) |
 | :--- | :--- |
@@ -10,7 +9,7 @@
 
 ***
 
-## 💡 Introducción Teórica al Cuarteto de Anscombe
+## Introducción Teórica al Cuarteto de Anscombe
 
 El **Cuarteto de Anscombe** es un conjunto de cuatro pares de datos que fueron creados por el estadístico Francis Anscombe en 1973. El propósito de este ejercicio es demostrar la importancia de la visualización de datos en el análisis estadístico.
 
