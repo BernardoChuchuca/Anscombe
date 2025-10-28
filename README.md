@@ -23,6 +23,10 @@ A primera vista, los cuatro conjuntos de datos son casi idénticos en todas sus 
 
 Sin embargo, al visualizar los datos, se revela que la distribución de cada conjunto es radicalmente distinta, probando que un modelo lineal (como la regresión lineal) solo es apropiado para uno de ellos.
 
+### Grafica 
+
+![Gráfico del Cuarteto de Anscombe](Grafica/regresion.png)
+
 [Image of The four scatter plots of the Anscombe's quartet]
 
 **Referencia:**
