@@ -1,0 +1,18 @@
+library(tidyverse) 
+library(datasauRus)
+
+datasaurus_dozen %>%
+  # 1. Filtramos solo los datos del patrón 'dots'
+  filter(dataset == "dots") %>%
+  # 2. Inicializamos la gráfica
+  ggplot(aes(x = x, y = y)) +
+  # 3. Agregamos los puntos (geom_point)
+  geom_point(color = "darkgreen", size = 2) +
+  # 4. AGREGAMOS LA RECTA DE REGRESIÓN LINEAL (geom_smooth)
+  geom_smooth(method = "lm", color = "red", se = FALSE) + # 'se = FALSE' quita el área de confianza
+  # 5. Añadimos títulos y tema. Asegúrate de que las comillas sean correctas.
+  labs(title = "Patrón 'Dots' con su Recta de Regresión Lineal",
+       subtitle = paste("R-squared =", round(summary(modelo_lineal_dots)$r.squared, 4)),
+       x = "Eje X",
+       y = "Eje Y") +
+  theme_minimal()
