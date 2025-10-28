@@ -4,9 +4,9 @@
 
 | Institución: | UNIVERSIDAD POLITÉCNICA SALESIANA (UPS) |
 | :--- | :--- |
-| Carrera: | [Tu Nombre de Carrera] |
-| Periodo Académico: | [Ejemplo: 2024 - 2025] |
-| Estudiante: | **[Tu Nombre Completo]** |
+| Carrera: | Computacion |
+| Periodo Académico: | 2025-2026 (67) |
+| Estudiante: | **Frank Bernardo Chuchuca Torres** |
 
 ***
 
@@ -28,3 +28,4 @@ Sin embargo, al visualizar los datos, se revela que la distribución de cada con
 
 **Referencia:**
 Anscombe, F. J. (1973). Graphs in Statistical Analysis. *The American Statistician*, 27(1), 17–21.
+
